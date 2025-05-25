@@ -21,7 +21,7 @@ dependencies:
   plugin_platform_interface: ^2.1.2
   synchronized: ^3.0.0+2
   universal_platform: ^1.0.0+1
-  uuid: ^3.0.6
+  uuid: ^4.2.1
   vector_math: ^2.1.2
 
 dev_dependencies:
